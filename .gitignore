@@ -1,0 +1,14 @@
+# ---- video ----------------------------------------------------------------
+# The demo and journey videos exceed GitHub's 100 MB per-file limit and are
+# shared by link instead (see README).
+*.mp4
+*.mov
+*.MOV
+*.zip
+Lam_resrarch/
+
+# ---- build output -----------------------------------------------------------
+build/
+*.elf
+*.bin
+*.hex
